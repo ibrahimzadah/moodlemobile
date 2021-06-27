@@ -1,67 +1,67 @@
 {
-"name": "Moodle Mobile",
+"name": "Eshraq LMS",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
 {
-    "fullname": "Juan Leyva",
-    "contribution": "Main developer",
-    "company": "CV&A Consulting"
+    "fullname": "Ibrahimzadah",
+    "contribution": "Eshraq University",
+    "company": "Eshraq Institute of Higher Education"
 },
 {
-    "fullname": "Josep Maria Gifreu",
+    "fullname": "Gholam Sakhi Ibrahimzadah",
     "contribution": "Icons and css fixes",
-    "company": "CV&A Consulting"
+    "company": "Eshraq Institute of Higher Education"
 },
 {
-    "fullname": "Martin Dougiamas",
+    "fullname": "Gholam Sakhi Ibrahimzadah",
     "contribution": "Strategic direction",
-    "company": "Moodle Pty Ltd."
+    "company": "Eshraq University ."
 },
 {
-    "fullname": "Jerome Mouneryac",
-    "contribution": "Developer and Moodle HQ technical contact",
-    "company": "Moodle Pty Ltd."
+    "fullname": "Gholam Sakhi Ibrahimzadah",
+    "contribution": "Vice Chancellor",
+    "company": "Eshraq University."
 },
 {
-    "fullname": "Barbara Ramiro",
+    "fullname": "Gholam Sakhi Ibrahimzadah",
     "contribution": "Designer",
-    "company": "Moodle Pty Ltd."
+    "company": "Eshraq University."
 },
 {
-    "fullname": "Adrian Bedford",
+    "fullname": "Ibrahimzadah",
     "contribution": "Contributor (project manager)",
-    "company": "City & Guilds Kineo"
+    "company": "Eshraq University"
 },
 {
-    "fullname": "David Shaw",
+    "fullname": "Ibrahimzadah",
     "contribution": "Contributor (solutions architect)",
     "company": "City & Guilds Kineo"
 },
 {
-    "fullname": "Dominic Orme",
+    "fullname": "Ibrahimzadah",
     "contribution": "Contributor (developer)",
     "company": "City & Guilds Kineo"
 },
 {
-    "fullname": "Tony Blundell",
+    "fullname": "Ibrahimzadah",
     "contribution": "Contributor (developer)",
     "company": "City & Guilds Kineo"
 },
 {
-    "fullname": "Michael Palmer",
+    "fullname": "Ibrahimzadah",
     "contribution": "Contributor (designer)",
     "company": "City & Guilds Kineo"
 },
 {
-    "fullname": "Daniel Palou",
+    "fullname": "Ibrahimzadah",
     "contribution": "Contributor (developer)",
     "company": "CV&A Consulting"
 },
 {
-    "fullname": "Daniel Ramírez",
+    "fullname": "Ibrahimzadah",
     "contribution": "Contributor (developer Window version)",
     "company": "CV&A Consulting"
 }
